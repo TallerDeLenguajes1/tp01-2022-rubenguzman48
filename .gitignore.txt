@@ -1,0 +1,2 @@
+# Con este comando ignoramos el archivo "ignorado.txt"
+*ignorado.txt
