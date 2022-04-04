@@ -6,7 +6,10 @@ En este Practico estamos aprendiendo a usar Git y usando punteros
 ### ¿Cuándo se debe hacer?
 > Lo podemos usar tanto en la raiz de nuestro proyecto como un archivo global para afectar a todos nuestros repositorios
 ### ¿Cómo configuraría el archivo .gitignore?
-<pre> > Para configurar un archivo ".gitignore" primero debemos crear un archivo de texto llamado ".gitignore.txt", sin olvidar el punto al principio del nombre del archivo.
+> Para configurar un archivo ".gitignore" primero debemos crear un archivo de texto 
+llamado ".gitignore.txt", sin olvidar el punto al principio del nombre 
+del archivo.
+<pre>
 En el interior del archivo tenemos 3 patrones
 - "*" Se utiliza para señalar los archivos a ignorar
 - "/" Se utiliza para ignorar rutas de ubicacion
