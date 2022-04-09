@@ -15,3 +15,7 @@ En el interior del archivo tenemos 3 patrones
 - "/" Se utiliza para ignorar rutas de ubicacion
 - "#" Se usa para agregar comentarios
 </pre>
+
+## Punto 3
+### c) Revise los archivos subidos en su repositorio de github. ¿Que archivos ve?¿Cuál cree que no hace falta que esté?
+> Los archivos que veo son ".gitignore.txt", "README.md", "tp1_1.cpp" y el archivo que no hace falta que este es "tp1_1.exe", el cual debe ser creado al compilar el archivo .cpp del practico en el equipo local.
